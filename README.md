@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="150" width="" />
-</div>  
-  
-
-### <div align="center">I'm Daniel, an electrical ⚡ engineer and embedded 🛏 software developer.</div>  
+### <div align="center">Hi! I'm Daniel, an electrical ⚡ engineer and embedded 🛏 software developer.</div>  
   
 
 - 🔭 I’m currently working on [embedded-text](https://github.com/bugadani/embedded-text) and maybe [embedded-layout](https://github.com/bugadani/embedded-layout)  
