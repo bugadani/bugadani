@@ -75,11 +75,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Announcing embedded-text 0.1.0](https://bugadani.github.io/rust/optimization/2020/07/31/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
+- [Announcing embedded-text 0.2.0](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2020/08/15/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
+- [Announcing embedded-text 0.1.0](https://bugadani.github.io/embedded-graphics/embedded-text/2020/07/31/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
 - [Micro-optimization of the day: bit masks](https://bugadani.github.io/rust/optimization/2020/07/28/microoptimization.html?utm_source=rss_feed&utm_medium=blog)
-- [Announcing embedded-text 0.0.3](https://bugadani.github.io/embedded-graphics/embedded-text/2020/07/28/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
-- [Announcing embedded-text 0.0.1](https://bugadani.github.io/embedded-graphics/embedded-text/2020/07/21/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
-- [Announcing embedded-layout 0.1.0](https://bugadani.github.io/embedded-graphics/embedded-layout/2020/07/08/embedded-layout.html?utm_source=rss_feed&utm_medium=blog)
+- [Announcing embedded-text 0.0.3](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2020/07/28/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
+- [Announcing embedded-text 0.0.1](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2020/07/21/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
