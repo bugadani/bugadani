@@ -1,7 +1,7 @@
 ### <div align="center">Hi! I'm Daniel, an electrical ⚡ engineer and embedded 🛏 software developer.</div>  
   
 
-- 🔭 I’m currently working on [embedded-text](https://github.com/embedded-graphics/embedded-text) and some smaller stuff  
+- 🔭 I’m currently working on [embedded-text](https://github.com/embedded-graphics/embedded-text), [embedded-gui](https://github.com/bugadani/embedded-gui) and some smaller stuff  
   
 
 - 🌱 I’m currently learning Rust and I sometimes contribute to the Rust compiler  
@@ -88,11 +88,6 @@
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11134377067&cover_image=true&theme=compact" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bugadani&&style=flat-square" align="center" />
 </div>  
