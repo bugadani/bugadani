@@ -80,11 +80,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing embedded-text 0.5.0](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2021/09/08/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
 - [Announcing embedded-text 0.5.0-beta.4](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2021/08/16/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
 - [Announcing embedded-text 0.5.0-beta.3](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2021/08/08/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
 - [Announcing embedded-text 0.5.0-beta.2](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2021/07/10/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
 - [Announcing embedded-text 0.5.0-beta.1](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2021/06/04/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
-- [Announcing embedded-text 0.4.1](https://bugadani.github.io/rust/embedded-graphics/embedded-text/2021/04/25/embedded-text.html?utm_source=rss_feed&utm_medium=blog)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
