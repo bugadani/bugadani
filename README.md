@@ -1,10 +1,10 @@
 ### <div align="center">Hi! I'm Daniel, an electrical ⚡ engineer and embedded 🛏 software developer.</div>  
   
 
-- 🔭 I’m currently working on [embedded-text](https://github.com/embedded-graphics/embedded-text), [embedded-gui](https://github.com/bugadani/embedded-gui) and some smaller stuff  
+- 🔭 I’m currently working on [the Card/IO ECG system](https://github.com/card-io-rs), [embedded-menu](https://github.com/bugadani/embedded-menu) and some smaller stuff  
   
 
-- 🌱 I’m currently learning Rust and I sometimes contribute to the Rust compiler  
+- 🌱 I’m currently learning Rust and I sometimes contribute to various open-source projects, like [embedded-tls](https://github.com/drogue-iot/embedded-tls)
   
 
 - ⚡ Fun fact: Star Trek over Star Wars any time   
