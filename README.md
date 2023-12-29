@@ -1,13 +1,13 @@
 ### <div align="center">Hi! I'm Daniel, an electrical ⚡ engineer and embedded 🛏 software developer.</div>  
   
 
-- 🔭 I’m currently working on [the Card/IO ECG system](https://github.com/card-io-ecg), [embedded-menu](https://github.com/bugadani/embedded-menu) and some smaller stuff  
+- 🔭 I’m currently working on [the Card/IO ECG system](https://github.com/card-io-ecg), [probe-rs](https://github.com/probe-rs/probe-rs) and some smaller stuff
   
 
-- 🌱 I’m currently learning Rust and I sometimes contribute to various open-source projects, like [esp-hal](https://github.com/esp-rs/esp-hal) or [embedded-tls](https://github.com/drogue-iot/embedded-tls)
+- 🌱 I’m currently learning Rust and I sometimes contribute to various open-source projects, like [esp-hal](https://github.com/esp-rs/esp-hal), [probe-rs](https://github.com/probe-rs/probe-rs) or [embedded-tls](https://github.com/drogue-iot/embedded-tls)
   
 
-- ⚡ Fun fact: Star Trek over Star Wars any time   
+- ⚡ Fun fact: Star Trek over Star Wars any time
   
 
 <br/>  
